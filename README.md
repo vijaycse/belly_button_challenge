@@ -1,4 +1,3 @@
-# Module_12
 **Bellybutton Challenge**
 
 # Background
@@ -35,3 +34,7 @@ A Gauge Chart that displays the weekly washing frequency's value, and display th
 Customized Dashboard
 
 ![Dashboard](https://github.com/vijaycse/belly_button_challenge/blob/master/resources/bellybuttpon_dashboard.png)
+
+
+# How to run?
+  - Please run index.html from live server extension from vscode (due to CORS issues in the browser)
