@@ -38,3 +38,6 @@ Customized Dashboard
 
 # How to run?
   - Please run index.html from live server extension from vscode (due to CORS issues in the browser)
+  
+# Deployed page
+  https://vijaycse.github.io/belly_button_challenge/
